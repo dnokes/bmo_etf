@@ -1,1 +1,3 @@
-# bmo_etf
+# BMO ETF
+
+Extract price overview, NAVs, & holdings
